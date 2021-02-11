@@ -3,17 +3,17 @@ pipeline {
     stages {
         stage('---clean---') {
             steps {
-                sh "echo clean"
+                echo 'clean'
             }
         }
         stage('--test--') {
             steps {
-                sh "echo test"
+                 echo 'test'
             }
         }
         stage('--package--') {
             steps {
-                sh "echo package"
+                echo 'package'
             }
         }
     }
