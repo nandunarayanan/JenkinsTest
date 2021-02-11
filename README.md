@@ -1,4 +1,1 @@
-# JenkinsTest
-
-Test#1
-Test#2
+apturing screenshot in appium android automation Is main requirement for any software automation tool. During software automation testing process, It should allow you to capture screenshot automatically to show bug or some design Issue to development/design team. For android software application automation testing using appium, We can use TakesScreenshot Interface of WebDriver to capture screenshot of android app screen. I have prepared simple example on how to capture screenshot In android appium automation software test using TakesScreenshot Interface of WebDriver.
